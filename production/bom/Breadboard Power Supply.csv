@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_Disc_D3.0mm_W1.6mm_P2.50mm";1;"10u";;;
+2;"C2";"C_Disc_D3.0mm_W1.6mm_P2.50mm";1;"0.1u";;;
+3;"C3";"C_Disc_D3.0mm_W1.6mm_P2.50mm";1;"1u";;;
+4;"D1";"LED_D5.0mm";1;"LED";;;
+5;"J1, J2";"PinHeader_1x02_P2.54mm_Vertical";2;"Conn_01x02_Pin";;;
+6;"J3, J4";"PinHeader_1x03_P2.54mm_Vertical";2;"Conn_01x03_Pin";;;
+7;"J5, J7";"TerminalBlock_bornier-2_P5.08mm";2;"Screw_Terminal_01x02";;;
+8;"J6";"BarrelJack_Horizontal";1;"Barrel_Jack_Switch";;;
+9;"R1, R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";2;"330";;;
+10;"R3";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"560";;;
+11;"SW1";"SW_1218_EWI";1;"EG1218";;;
+12;"U1";"TO-220-3_Vertical";1;"LM7805_TO220";;;
+13;"U2";"TO-220-3_Vertical";1;"LM317_TO-220";;;

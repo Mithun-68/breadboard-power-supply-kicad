@@ -1,5 +1,5 @@
 ## Project Overview
-This project is an open-source, dual-rail breadboard power supply designed to plug directly into standard MB-102 breadboard power buses. Powered via a standard $7\text{ V} - 12\text{ V}$ DC barrel jack, it generates independent $3.3\text{ V}$ and $5.0\text{ V}$ linear-regulated rails to safely power microcontrollers, sensors, and prototype circuits.
+This project is an open-source, dual-rail breadboard power supply designed to plug directly into standard MB-102 breadboard power buses. Powered via a standard $7\text{V} - 12\text{V}$ DC barrel jack, it generates independent $3.3\text{V}$ and $5.0\text{V}$ linear-regulated rails to safely power microcontrollers, sensors, and prototype circuits.
 
 | 3D PCB Render | Schematic Diagram |
 | :---: | :---: |
@@ -8,11 +8,11 @@ This project is an open-source, dual-rail breadboard power supply designed to pl
 ---
 
 ## Technical Specifications
-* **Input Voltage:** $7\text{ V} - 12\text{ V}$ DC via $2.1\text{ mm} \times 5.5\text{ mm}$ Barrel Jack (`J6`)
-* **Regulated Output Rails:** Dual selectable $3.3\text{ V}$ and $5.0\text{ V}$ outputs
-* **Max Output Current:** Up to $800\text{ mA}$ total (thermally limited)
+* **Input Voltage:** $7\text{V} - 12\text{V}$ DC via $2.1\text{ mm} \times 5.5\text{ mm}$ Barrel Jack (`J6`)
+* **Regulated Output Rails:** Dual selectable $3.3\text{V}$ and $5.0\text{V}$ outputs
+* **Max Output Current:** Up to $800\text{mA}$ total (thermally limited)
 * **Master Power Control:** Onboard SPDT slide switch (`SW1`) with power status LED (`D1`)
-* **Output Selectors:** 3-pin headers (`J3` & `J4`) with physical jumper shunts to independently assign $3.3\text{ V}$ or $5.0\text{ V}$ to each breadboard rail
+* **Output Selectors:** 3-pin headers (`J3` & `J4`) with physical jumper shunts to independently assign $3.3\text{V}$ or $5.0\text{V}$ to each breadboard rail
 * **Auxiliary Outputs:** 2-pin screw terminals (`J5` & `J7`) wired in parallel for multimeter leads or external wiring
 * **Form Factor:** Standard $2.54\text{ mm}$ pitch headers for MB-102 breadboard dual-bus alignment
   

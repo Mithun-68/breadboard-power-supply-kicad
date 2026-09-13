@@ -23,7 +23,7 @@ This project is an open-source, dual-rail breadboard power supply designed to pl
 * **Thermal Reliefs & Manufacturing Rules:** Applied spoke thermal reliefs on ground pads for smooth hand-soldering. Fully DRC-verified against standard $6\text{ mil}$ clearance and trace width rules for instant fabrication via JLCPCB or PCBWay.
 
 ## Project Origin & Attribution
-Designed as a practical hands-on portfolio project following the structured learning modules in "KiCad Like a Pro" by Dr. Peter Dalmaris. All schematic capture, PCB routing, ground pour strategy, DRC verification, and fabrication output generation were independently executed in KiCad 10.
+I designed this as a practical portfolio project following the structured learning modules in "KiCad Like a Pro" by Dr. Peter Dalmaris. I independently executed all schematic capture, PCB routing, ground pour strategy, DRC verification, and fabrication output generation in KiCad 10.
 
 ## Repository Organization
 ```text
